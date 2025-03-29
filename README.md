@@ -27,9 +27,13 @@ Standardization (Z-score normalization) for feature scaling.
 
 🚀 HOW TO RUN THE MODEL
 This project was developed on Google Colab. To run it:
+
 Open the Colab notebook: [https://colab.research.google.com/drive/1_WldUrkwkfqJzi0jd2lIugG8N3VRSNF7?usp=sharing].
+
 Upload the dataset files: Training_data_uhi_index_2025-02-18.csv, Landsat_LST.csv, and S2_sample.tiff.
+
 Execute the cells to preprocess data, train the model, and make predictions.
+
 The final UHI predictions will be saved as submission.csv.
 
 📊 PERFOMRMANCE METRICS
