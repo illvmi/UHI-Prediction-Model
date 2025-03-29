@@ -1,3 +1,7 @@
+URBAN HEAT ISLAND PREDICTION MODEL 🌆🔥
+This machine learning model was developed as part of the 2025 EY Open Science AI and Data Challenge to predict Urban Heat Islands (UHI) using satellite imagery, meteorological data, and machine learning techniques.
+
+📌 Project Overview
 📌 OVERVIEW
 Urban Heat Islands (UHIs) occur when urban areas experience significantly higher temperatures than surrounding rural areas due to human activities and infrastructure. This project aims to:
 ✔ Analyze satellite and land surface temperature data to detect UHI patterns.
